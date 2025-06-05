@@ -36,7 +36,7 @@ This project simulates a 3-joint 2D arm (shoulder, elbow, wrist) actuated by rea
 Run the main script:
 
 ```bash
-python simulate_arm.py
+python Biomechatronics2DArm.py
 ```
 
 This will launch a real-time animation window with all the visualizations.
