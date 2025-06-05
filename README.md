@@ -59,4 +59,4 @@ apply_pam = True  # Enable or disable PAM-assisted actuation
 
 ## Credits
 
-This simulation was developed as part of a biomechanics/control systems project using biologically inspired actuation models.
+This simulation was developed as part of a biomechatronics project for validation of PAM assisted dynamics.
