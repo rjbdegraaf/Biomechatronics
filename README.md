@@ -53,7 +53,7 @@ apply_pam = True  # Enable or disable PAM-assisted actuation
 
 ## File Structure
 
-- `simulate_arm.py`: Main simulation script with animation.
+- `Biomechatronics2DArm.py`: Main simulation script with animation.
 - `Muscle_Model.py`: Contains muscle force model.
 - `constants.py`: Arm segment lengths and target trajectory.
 
